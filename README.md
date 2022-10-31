@@ -25,6 +25,7 @@ Clone project dari repo yang teman-teman punya
 
 ```
 git clone https://github.com/{username github teman-teman}/laravel-portfolio-project.git
+cd laravel-portfolio-project
 ```
 
 Jalan terminal dengan perintah:
