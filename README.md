@@ -2,9 +2,10 @@
 
 Bismillah, halo semuanya, selamat datang di Open Source Project Laravel Portofolio,  - [https://youtube.com/@dirumahrafif](https://youtube.com/@dirumahrafif)
 
-Daftar Isi - [Kebutuhan](#kebutuhan) - [Langkah Menjalankan](#menjalankan)
-
--   [Kontribusi](#kontribusi)
+Daftar Isi 
+- [Kebutuhan](#kebutuhan)   
+- [Langkah Menjalankan](#menjalankan)
+- [Kontribusi](#kontribusi)
 
 ## Development
 
