@@ -1,6 +1,7 @@
 # Laravel Portofolio Project
 
-Bismillah, halo semuanya, selamat datang di Open Source Project Laravel Portofolio,  - [https://youtube.com/@dirumahrafif](https://youtube.com/@dirumahrafif)
+Bismillah, halo semuanya, selamat datang di Project Laravel Portofolio. Di mana teman-teman bisa mengggunakan, bahkan mengembangkan project ini.
+Project ini adalah hasil yang didapat dari [playlist yang ada di YouTube Programming di Rumahradif](https://www.youtube.com/playlist?list=PLzt0WdHR1Z3nFHQ0WDk0HSXmSj7ReCPKj)
 
 Daftar Isi 
 - [Kebutuhan](#kebutuhan)   
@@ -19,7 +20,7 @@ Beberapa hal yang diperlukan untuk menjalankan project ini di lokal teman-teman:
 
 ### Menjalankan
 
-Silakan fork dulu project ini di **REPOSITORY yang teman-teman punya** 
+Silakan **fork** dulu project ini di **REPOSITORY yang teman-teman punya** 
 Clone project dari repo yang teman-teman punya
 
 ```
