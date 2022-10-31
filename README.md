@@ -78,7 +78,7 @@ Silakan dibuka di <code>http://127.0.0.1:8000</code>
 
 ## Kontribusi
 
-1. Lakukan langkah development di bagian di bagian atas
+1. Lakukan langkah development di bagian atas
 2. Buat branch <code>dev</code> di project lokal teman-teman
 
 ```
