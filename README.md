@@ -1,7 +1,7 @@
 # Laravel Portofolio Project
 
 Bismillah, halo semuanya, selamat datang di Project Laravel Portofolio. Di mana teman-teman bisa mengggunakan, bahkan mengembangkan project ini.
-Project ini adalah hasil yang didapat dari [playlist yang ada di YouTube Programming di Rumahradif](https://www.youtube.com/playlist?list=PLzt0WdHR1Z3nFHQ0WDk0HSXmSj7ReCPKj)
+Project ini adalah hasil yang didapat dari [playlist yang ada di YouTube Programming di Rumahrafif](https://www.youtube.com/playlist?list=PLzt0WdHR1Z3nFHQ0WDk0HSXmSj7ReCPKj)
 
 Daftar Isi 
 - [Kebutuhan](#kebutuhan)   
